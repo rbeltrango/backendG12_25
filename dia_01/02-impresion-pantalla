@@ -1,0 +1,10 @@
+nombre = 'ronald'
+
+print(nombre)
+
+#concatenando
+print('el nombre es:',nombre, 'del usuario')
+
+estado_civil ='soltero'
+
+print('la persona {} es {}' .format(nombre, estado_civil))
